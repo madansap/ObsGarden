@@ -1,5 +1,5 @@
 ---
-title: Speak Your Mind
+title: Speak Your Mind-madanwap
 ---
 
 This is a blank Quartz installation.
